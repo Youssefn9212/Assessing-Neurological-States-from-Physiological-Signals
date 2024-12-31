@@ -2,6 +2,11 @@
 
 This project focuses on assessing neurological states, including stress (physical, emotional, and cognitive), using machine learning techniques on physiological signals. By leveraging classification and clustering models, the project aims to develop accurate methods for identifying stress states and understanding their impact.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0badfc7b-7012-45d4-a44e-c1fac8729d56" alt="Project Image">
+</p>
+
+
 ---
 
 ### Project Contributors
