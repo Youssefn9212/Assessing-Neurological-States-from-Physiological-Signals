@@ -41,7 +41,7 @@ Stress significantly impacts physical, cognitive, and emotional well-being. Accu
 
 ### **Dataset**
 
-The dataset used is the **Non-EEG Dataset for Assessment of Neurological Status** available on PhysioNet. It includes physiological data from 20 healthy subjects (11 males, 9 females) aged 21–28. Signals were recorded under various stress-inducing conditions, such as:
+The dataset used is the **Non-EEG Dataset for Assessment of Neurological Status**, which is available on PhysioNet. It includes physiological data from 20 healthy subjects (11 males, 9 females) aged 21–28. Signals were recorded under various stress-inducing conditions, such as:
 - **Physical stress:** Exercise
 - **Cognitive stress:** Problem-solving tasks
 - **Emotional stress:** Watching horror movies
@@ -78,7 +78,7 @@ To ensure uniformity, preprocessing included:
 
 ### **Unified Pipeline**
 
-A unified pipeline was developed to streamline experimentation, allowing combinations of preprocessing, feature selection, and modeling to be tested efficiently.
+A unified pipeline was developed to streamline experimentation, allowing combinations of preprocessing, feature selection, and modeling to be tested efficiently. We tested different combinations of dimensionality reduction to try to find the one that optimizes the performance of our models.
 
 ---
 
